@@ -24,5 +24,3 @@ https://www.simbirsoft.com/
 Если его нет, создает тестовый пример
 В файле sites.txt адреса сайтов должны находится по строчно, вида https://www.google.com/
 
-# Тестирование - ссылка на ютуб
-https://youtu.be/8wxVX4kfeqg
